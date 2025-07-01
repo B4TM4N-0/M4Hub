@@ -1,0 +1,10 @@
+{
+  "headers": [
+    {
+      "source": "/main.lua",
+      "headers": [
+        { "key": "Content-Type", "value": "text/plain" }
+      ]
+    }
+  ]
+}
